@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="567263e7-c654-46bd-b597-78e4f62e5c64" name="Changes" comment="code 112">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="567263e7-c654-46bd-b597-78e4f62e5c64" name="Changes" comment="code 11234">
+      <change beforePath="$PROJECT_DIR$/src/trace table" beforeDir="false" afterPath="$PROJECT_DIR$/src/trace table" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665421950108</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="code 11234">
+      <created>1665422789662</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665422789662</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,7 +106,8 @@
     <MESSAGE value="code" />
     <MESSAGE value="code 11" />
     <MESSAGE value="code 112" />
-    <option name="LAST_COMMIT_MESSAGE" value="code 112" />
+    <MESSAGE value="code 11234" />
+    <option name="LAST_COMMIT_MESSAGE" value="code 11234" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
